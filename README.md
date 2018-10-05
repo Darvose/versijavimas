@@ -1,0 +1,3 @@
+# Mokomes Git
+
+repo aprasymas
